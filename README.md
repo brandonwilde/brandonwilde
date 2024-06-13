@@ -2,7 +2,7 @@
 
 I’m an AI developer captivated by natural language processing, especially multilingual tasks and computational semantics.
 
-Head over to my website at brandonwilde.github.io for contact information and more info about my background! 📫
+Head over to my website at [brandonwilde.github.io](https://brandonwilde.github.io) for contact information 📫 and more info about my background!
 
 <!---
 brandonwilde/brandonwilde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
